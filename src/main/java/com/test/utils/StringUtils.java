@@ -3,7 +3,7 @@ package com.test.utils;
 /**
  * Custom util methods / operations on string.
  */
-public class TestStringUtils {
+public class StringUtils {
 
     public static String reverseWords(String str) {
 
