@@ -1,0 +1,1 @@
+java -cp target/Test-1.0-SNAPSHOT.jar com.test.build.VersionUtils "$SourcePath/develop/global/src"
